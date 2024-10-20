@@ -2,8 +2,8 @@
 A simple, responsive user interface design for a social media-like web application with a sidebar navigation, profile display, stories, and feed sections.
 
 This project demonstrates the use of HTML, CSS, and icons from Remixicon for creating a sleek and modern layout.
-# Features
-Sidebar Navigation: A fixed sidebar that contains the logo, profile information, and navigation links.
+## Features
+**Sidebar Navigation**: A fixed sidebar that contains the logo, profile information, and navigation links.
 
 Profile Section: Includes a profile image, name, and follower status.
 
