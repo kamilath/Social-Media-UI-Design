@@ -26,6 +26,4 @@ This project demonstrates the use of HTML, CSS, and icons from Remixicon for cre
 3.Open the index.html file in any web browser.
 
 ## To Do
-Add more interactive features like post creation, story updates, etc.
-
-Improve the responsiveness for mobile viewports.
+Add more interactive features like post creation, story updates, etc.Improve the responsiveness for mobile viewports.
