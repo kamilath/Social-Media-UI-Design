@@ -19,11 +19,11 @@ This project demonstrates the use of HTML, CSS, and icons from Remixicon for cre
 
 - **Remixicon**: For providing icons used in the sidebar menu and action buttons.
 ## How to Run
-Clone or download this repository to your local machine.
+1.Clone or download this repository to your local machine.
 
-Ensure you have an internet connection to load the external resources (like Remixicon).
+2.Ensure you have an internet connection to load the external resources (like Remixicon).
 
-Open the index.html file in any web browser.
+3.Open the index.html file in any web browser.
 
 ## To Do
 Add more interactive features like post creation, story updates, etc.
